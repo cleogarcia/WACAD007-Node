@@ -26,6 +26,6 @@
     createLink, presente um módulo util.js separado.
     
 # Exercício V: 
-Refaça o exercício anterior usando ES modules.
+Refaça o exercício anterior usando ES modules.   
 
  
