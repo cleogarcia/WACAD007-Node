@@ -1,0 +1,5 @@
+O Node.js é a ferramenta que vai nos entregar a capacidade de 
+interpretar código JavaScript, de maneira bem similar ao navegador.
+Quando executamos um comando escrito em JavaScript, 
+o Node.js interpreta esse comando e faz a sua conversão 
+para a linguagem de máquina a ser executada pelo computador.

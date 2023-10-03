@@ -1,0 +1,5 @@
+CommonJS is a project to standardize the module ecosystem for 
+JavaScript outside of web browsers (e.g. on web servers or native 
+desktop applications). CommonJS's specification
+of how modules should work is widely used today for
+server-side JavaScript with Node. js.

@@ -1,0 +1,5 @@
+Os ES Modules, também conhecidos como ECMAScript Modules,
+ são uma das principais adições ao JavaScript moderno. 
+Esses módulos permitem que os desenvolvedores organizem 
+seu código em arquivos separados, tornando o código mais 
+legível, fácil de manter e reutilizável.

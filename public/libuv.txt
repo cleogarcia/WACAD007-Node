@@ -1,0 +1,6 @@
+libuv: libuv é uma biblioteca C originalmente escrita para Node. 
+js para abstrair operações de E/S sem bloqueio. O modelo de E/S assíncrona 
+orientado a eventos é integrado. Ele permite que a CPU e outros recursos 
+sejam usados ​​simultaneamente´
+enquanto ainda executa operações de E/S, resultando assim 
+no uso eficiente dos recursos e da rede.

@@ -1,0 +1,5 @@
+O nodemon é um utilitário que monitora as mudanças nos
+arquivos do seu projeto e reinicia automaticamente o
+servidor Node. js quando necessário. Assim, você 
+não precisa parar e iniciar o servidor manualmente
+a cada modificação.8
